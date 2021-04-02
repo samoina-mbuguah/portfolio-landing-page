@@ -10,7 +10,7 @@ Basic Git knowledge, including an installed version of Git.
 - Open the git repository link 'git@github.com:samoina-mbuguah/portfolio-landing-page.git'
 - Open 'index.html' on your browser.
 ## Link to live site on gh pages
-
+samoina-mbuguah.github.io/portfolio-landing-page
 ### License
 *MIT*
 Copyright (c) 2021 **Samoina Mbuguah**
