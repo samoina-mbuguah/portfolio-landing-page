@@ -1,10 +1,17 @@
 .intro {
   text-align: center;
   color: blue;
+  width: 100vw;
+  height: auto;
 }
-p.intro {
-  font-size: xx-large;
-  font-weight: 200;
+.top {
+  font-size: x-large;
+  font-weight: 600;
+  border: 2px solid blue;
+  padding: 6px;
+  margin: 10px;
+  background-color: lightpink;
+  text-align-last: center;
 }
 .column {
   width: 350px;
@@ -18,4 +25,10 @@ p.intro {
 .column {
   background-color: lightsteelblue;
   font-weight: 400;
+}
+.column p {
+  text-decoration: underline;
+}
+.hobbies {
+  background-color: yellow;
 }
