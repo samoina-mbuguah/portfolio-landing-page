@@ -6,3 +6,16 @@ p.intro {
   font-size: xx-large;
   font-weight: 200;
 }
+.column {
+  width: 350px;
+  border: 4px solid blue;
+  }
+.parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  }
+.column {
+  background-color: lightsteelblue;
+  font-weight: 400;
+}
